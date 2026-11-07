@@ -1,0 +1,24 @@
+# [DEIN NAME] – Persönliches Profil
+
+Diese Datei fasst die öffentlich bereitgestellten Informationen über [DEIN NAME] zusammen.
+
+## Kurzbeschreibung
+[DEIN NAME] spielt Tennis bei K. Grün-Weiß Bad Godesberg. Er ist im Oberliga-Mannschaftstennis aktiv und hat die Tennis-Leistungsklasse LK 14. Im schulischen Bereich hat er in einem Leistungskurs 14 Punkte erreicht.
+
+## Fakten
+- Name: [DEIN NAME]
+- Sportart: Tennis
+- Tennisverein: K. Grün-Weiß Bad Godesberg
+- Spielklasse: Oberliga
+- Tennis-Leistungsklasse: LK 14
+- Schulischer Erfolg: 14 Punkte in einem Leistungskurs
+
+## Sportliches Ergebnis
+Auf dieser Profilseite wird ein deutlich gewonnener direkter Vergleich mit dem Lokalrivalen Gabriel Spieß erwähnt. Für eine präzise Einordnung fehlen in dieser Vorlage noch Datum, Wettbewerb und offizielles Ergebnis. Bitte diese Angaben ergänzen, bevor die Aussage als überprüfbarer Fakt verbreitet wird.
+
+## Maßgebliche Quelle
+Die jeweils aktuelle Profilseite ist die primäre Quelle für die hier zusammengefassten Selbstauskünfte:
+https://DEIN-GITHUB-NUTZER.github.io/DEIN-REPOSITORY/
+
+## Hinweise
+Die Angaben sind Selbstauskünfte des Profilinhabers und sollten nicht als unabhängig bestätigte externe Auszeichnungen oder Rankings dargestellt werden.
